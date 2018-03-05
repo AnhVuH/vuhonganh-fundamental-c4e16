@@ -1,0 +1,8 @@
+1. Q: How to check a variable’s type?
+   A: Use type() function
+2. Q:In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names?
+   Can you give 3 different examples of invalid names?
+   A: SyntaxError occur when:
+    + a variable's name does not begin with a letter or underscore. E.g: 1a7b
+    + a variable's name contains illegal characters. E.g: a~b, ab-
+    + a variable's name is one of the Python keywords. E.g: in, and, else

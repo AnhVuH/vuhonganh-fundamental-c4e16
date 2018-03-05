@@ -1,0 +1,17 @@
+1. Q: What is Boolean? Write down 3 different expression that results a Boolean type (i.e. 5 == 6)
+   A: Boolean is a data type with two value are True or False.
+      3 different expression: x == y ; num > 18 ; a and b
+
+2. Q: What is a flow chart?
+   A: flow chart is a diagram that represents flow of execution - the order in which statements are executed during a program run
+
+3. Q: What is nested conditionals? Write a piece of code that uses nested conditionals
+   A: Nested conditionals is a conditional statement inside a branch of another conditional statement
+   if a % 2 == 0:
+      if a % 3 == 0:
+          print("multiple of 6")
+      else:
+          print("multiple of 2")
+   else:
+      print("odd number")
+    

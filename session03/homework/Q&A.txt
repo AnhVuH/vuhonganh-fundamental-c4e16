@@ -1,0 +1,4 @@
+1. Q: What is nested list?
+   A: Nested list is a list within another list
+2. Q: Can a list store both integers and strings in it?
+   A: Yes, it can. The elements of a list don't have to be the same type
